@@ -1,2 +1,2 @@
 # myjs-dev-kit
-a custom JavaScript Development Environment
+a JavaScript Development Environment setup
